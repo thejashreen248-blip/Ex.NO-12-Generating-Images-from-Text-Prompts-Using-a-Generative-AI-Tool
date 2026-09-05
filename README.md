@@ -1,7 +1,7 @@
 # Ex.NO-12-Generating-Images-from-Text-Prompts-Using-a-Generative-AI-Tool
 ## AIM
 To understand how text-to-image generative AI works, and to generate and refine sample images from text prompts using a free AI image-generation tool.
-## WHAT IS TEXT-TO-IMAGE GENERATIVE AI
+## WHAT IS TEXT-TO-IMAGE GENERATIVE AI?
 Text-to-image generative AI tools convert a written description (a “prompt”) into a brand-new image. The AI has learned patterns from millions of image-caption pairs, so it can combine ideas from the prompt — subject, style, mood, lighting — into an original picture that did not exist before. The quality of the result depends heavily on how clearly and specifically the prompt is written.
 TOOLS REQUIRED
 •	A free text-to-image AI tool - Bing Image Creator / Microsoft Designer, Adobe Firefly, Canva AI, or DALL·E inside ChatGPT
@@ -30,8 +30,9 @@ The screen below shows a sample text-to-image generator, with the prompt entered
 <img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/78871ae6-6967-46e3-bf4e-ce8c2fc79581" />
 ## OUTPUT
 A set of AI-generated images produced from a written prompt, refined across two to three prompt iterations, with the final chosen image saved for use in the report.
+<img width="1338" height="1087" alt="aiprompt" src="https://github.com/user-attachments/assets/d9916336-d1ae-42b3-8d16-8d2b95d08e90" />
+
 ## RESULT
 Thus, text-to-image generative AI was successfully explored by writing, testing, and refining prompts, and a final AI-generated image was produced and saved.
 ## CONCLUSION
 In conclusion, text-to-image generative AI shows how descriptive language can be directly converted into visual content, and that prompt wording — subject, style, and detail — has a major effect on the result. This makes prompt refinement, not technical skill, the key ability needed to use such tools effectively and responsibly.
-
